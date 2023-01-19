@@ -1,6 +1,6 @@
 # Android is the mobile market leader
 
-### [Global market share smartphone operating systems of unit shipments 2014-2023](https://www.statista.com/statistics/272307/market-share-forecast-for-smartphone-operating-systems/#statisticTitle)
+### [Global market share smartphone operating systems of unit shipments 2014-2023](https://www.statista.com/statistics/272307/market-share-forecast-for-smartphone-operating-systems/)
 
 Smartphones running the Android operating system hold an 87 percent share of the global market in 2019 and this is expected to increase over the forthcoming years. The mobile operating system developed by Apple (iOS) has a 13 percent share of the market.
 
